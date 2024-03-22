@@ -13,7 +13,7 @@ Welcome to the User Management System! This system provides functionalities for 
 
 ## Installation
 
-To install and run the User Management System locally, follow these steps:
+To install and run the User Management System locally, following steps:
 
 1. **Clone the Repository:**
    ```bash
